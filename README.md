@@ -24,7 +24,7 @@
 - 独显: 华擎 AMD Radeon RX 6800 Phantom Gaming D 16G OC
 - 声卡: 瑞昱 ALC897
 - 网卡: 瑞昱 2.5Gbe 有线网卡
-- 无线：Fenvi T919 + Intel 
+- 无线：Fenvi T919 + Intel AX201
 
 ### Bios 设置
 

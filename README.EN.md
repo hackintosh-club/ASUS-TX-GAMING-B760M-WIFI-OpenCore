@@ -24,7 +24,7 @@
 - GPU: ASROCK AMD Radeon RX 6800 Phantom Gaming D 16G OC
 - Audio: Realtek ALC897
 - Ethernet: Realtek 2.5GbE Family Controller
-- Wireless: Fenvi T919 + Intel 
+- Wireless: Fenvi T919 + Intel AX201
 
 ### Bios Setup
 
